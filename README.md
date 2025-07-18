@@ -39,4 +39,4 @@
 
 ### 🧾 PCB Layout
 
-![PCB Layout](images/AERO_pcb.png)
+![PCB Layout](hardware/AERO_pcb.png)
