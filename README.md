@@ -34,3 +34,9 @@
 | Chassis                | 1        | Base structure                       |
 
 ---
+
+![Schematic](hardware/AERO_schematic.png)
+
+### 🧾 PCB Layout
+
+![PCB Layout](images/AERO_pcb.png)
