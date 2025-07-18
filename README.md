@@ -26,10 +26,10 @@
 | Component              | Quantity | Description                          |
 |------------------------|----------|--------------------------------------|
 | Arduino Nano/          | 1        | Microcontroller board                |
-| OTR8RC                 | 1        | * channel IR array                   |
+| OTR8RC                 | 1        | 8 channel IR array                   |
 | TB6612FNG Motor Driver | 1        | Dual H-bridge for DC motors          |
 | N20 Motors + Wheels    | 2        | Robot locomotion                     |
-| 12V Li-Po              | 1         | Li-polymer battery                  |
+| 12V Li-Po              | 1        | Li-polymer battery                   |
 | Custom PCB             | 1        | Designed for easy plug-and-play      |
 | Chassis                | 1        | Base structure                       |
 
