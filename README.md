@@ -34,6 +34,7 @@
 | Chassis                | 1        | Base structure                       |
 
 ---
+## 🖼️ Schematic & PCB Design
 
 ![Schematic](hardware/AERO_schematic.png)
 
