@@ -30,8 +30,8 @@
 | TB6612FNG Motor Driver | 1        | Dual H-bridge for DC motors          |
 | N20 Motors + Wheels    | 2        | Robot locomotion                     |
 | 12V Li-Po              | 1        | Li-polymer battery                   |
-| Custom PCB             | 1        | Designed for easy plug-and-play      |
-| Chassis                | 1        | Base structure                       |
+| Custom PCB             | 1        | Hand Soldered                        |
+| Chassis                | 1        | 3-D printed                          |
 
 ---
 ## 🖼️ Schematic & PCB Design
