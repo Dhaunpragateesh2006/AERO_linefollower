@@ -41,3 +41,8 @@
 ### 🧾 PCB Layout
 
 ![PCB Layout](hardware/AERO_pcb.png)
+
+
+### 🤖 3-D Model
+
+![3-D Model](hardware/3-D_model.png)
