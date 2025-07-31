@@ -45,4 +45,4 @@
 
 ### 🤖 3-D Model
 
-![3-D Model](hardware/3-D_model.png)
+![3-D Model](hardware/3-D_model.PNG)
